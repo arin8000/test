@@ -3,3 +3,5 @@
 # adding to a-new-feature
 
 # another test note
+
+# second-new-feature
